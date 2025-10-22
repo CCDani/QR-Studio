@@ -67,9 +67,10 @@ pip install -r requirements.txt
 
 
 ### 💻 Cómo Ejecutar el Programa
+### Asegúrate de que tu entorno (env) sigue activo
 Una vez que las dependencias estén instaladas, ¡estás listo para lanzar la aplicación!
 
-# Asegúrate de que tu entorno (env) sigue activo
 ```bash
 python QR_Studio_(v2.1).py
 ```
+
