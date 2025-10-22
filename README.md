@@ -38,12 +38,12 @@ Primero, clona este repositorio o descarga los archivos (`QR_Studio_(v2.1).py`, 
 Es una buena práctica usar un entorno virtual (`venv`) para aislar las dependencias de este proyecto.
 
 
-# Navega hasta la carpeta del proyecto
+## Navega hasta la carpeta del proyecto
 ```bash
 cd /ruta/a/tu/proyecto/QR-Studio
 ```
 
-# Crea el entorno virtual (puedes llamarlo 'env' o 'venv')
+## Crea el entorno virtual (puedes llamarlo 'env' o 'venv')
 ```bash
 python -m venv env
 ```
@@ -73,4 +73,5 @@ Una vez que las dependencias estén instaladas, ¡estás listo para lanzar la ap
 ```bash
 python QR_Studio_(v2.1).py
 ```
+
 
